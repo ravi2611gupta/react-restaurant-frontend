@@ -1,3 +1,6 @@
+## Deployed URL
+Open [https://ravi2611gupta.github.io/react-restaurant-frontend/](https://ravi2611gupta.github.io/react-restaurant-frontend/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
