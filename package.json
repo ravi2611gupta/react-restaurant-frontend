@@ -1,5 +1,6 @@
 {
   "name": "restaurant",
+  "homepage": "https://ravi2611gupta.github.io/react-restaurant-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
